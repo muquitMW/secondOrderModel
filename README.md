@@ -7,3 +7,7 @@ and those N number of predicted output (probability density) is used as predicto
 ## Data
 We attach a set of data for testing this approach.
 Details regarding the data is available in comment section of FE_DataLoad.m
+
+## Supporting function
+A function (trainClassifier.m) attached here for training data with SVM algorithm is called by the scripts. 
+This function is generated using MATLAB's CalssifierLearner App's code generation functionality  
