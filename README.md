@@ -5,7 +5,7 @@ Time series instances of samples are used as multiple inputs (for example N fram
 and those N number of predicted output (probability density) is used as predictors for the second model.
 
 ## Data
-We attach a set of data for testing this approach.
+We attach a set of simulated data for testing this approach.
 Details regarding the data is available in comment section of FE_DataLoad.m
 
 ## Supporting function
